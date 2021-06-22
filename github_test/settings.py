@@ -27,7 +27,8 @@ DEBUG = True
 
 ALLOWED_HOSTS = ["*"]
 
-URL_prod = "xxx"
+URL_prod = "developent"
+
 
 # Application definition
 
